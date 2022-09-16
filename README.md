@@ -2,7 +2,7 @@
 
 ## SNAKE GAME implemented with C++ and SDL2 library
 
-You need to have makefile support and g++ installed in your system
+You need to have makefile support (make) and g++ installed in your system
 
 * Install SDL2 by following instruction in the [SDL Github Repository](https://github.com/libsdl-org/SDL/blob/main/INSTALL.txt)
 * Create a directory "bin" in the project root
@@ -19,5 +19,7 @@ You need to have makefile support and g++ installed in your system
   ```bash
   make run
   ```
+
+Use your arrow keyboard to control the snake
 
 # <center>Happy Gaming B) !</center>
